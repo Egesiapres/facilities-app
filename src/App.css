@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App .btn {
+  margin: 10px 5px 30px 5px;
+}
+
+.App .btn a {
+  color: white;
+  text-decoration: none;
+}
+
+.App .navbar {
+  text-align: left;
+  padding: 10px 20px 10px 20px;
+  background-color: #1976d2;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.App .navbar a {
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 15px;
+  color: white;
+}
